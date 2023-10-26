@@ -1,0 +1,19 @@
+.inputContainer{
+    text-align: center;
+    margin: 20px 0px 0px;
+}
+.dropdown{
+    padding: 5px;
+    margin: 0px 5px;
+}
+.inputField{
+    padding: 5px;
+    margin: 0px 5px;
+
+}
+
+.addBtn{
+    margin: 0px 5px;
+    padding: 3px;
+
+}

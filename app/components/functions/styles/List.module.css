@@ -1,0 +1,47 @@
+.listContainer{
+    text-align: center;
+}
+
+.transaction{
+    display: flex;
+    width: 480px;
+    margin: auto;
+    text-align: left;
+    margin-bottom: 10px;
+}
+.typeAmountDiv{
+    width: 80px;
+
+}
+.type{
+    margin-right: 0px;
+}
+
+.typeRed{
+    margin-right: 0px;
+    color: red;
+}
+
+.transactionAmount{
+    width: 50px;
+    display: inline-block;
+    color: green;
+}
+
+.transactionAmountRed{
+    width: 50px;
+    display: inline-block;
+    color: red;
+    margin-right: 5px;
+
+}
+
+
+.itemName{
+    display: inline-block;
+    width: 350px;
+}
+
+.deleteBtn{
+    padding: 3px;
+}
